@@ -1,0 +1,21 @@
+theme: minima
+markdown: kramdown
+
+title: |-
+    Agile Justin
+
+author: berthold.baeuml@dlr.de
+
+header_pages:
+  - _pages/system.md
+  - _pages/application.md
+  - _pages/research.md
+
+
+include:
+    - _pages
+    
+exclude: 
+    - .gitignore
+    - Gemfile
+    - README.md

@@ -23,10 +23,6 @@ wheels/
 MANIFEST
 
 
-*.png
-*.gif
-*.pdf
-
 
 # macOS
 .DS_Store

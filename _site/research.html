@@ -35,7 +35,7 @@
           </span>
         </label>
 
-        <div class="trigger"><a class="page-link" href="/system">System</a><a class="page-link" href="/research">Research</a></div>
+        <div class="trigger"><a class="page-link" href="/group">Group</a><a class="page-link" href="/system">System</a><a class="page-link" href="/research">Research</a><a class="page-link" href="/videos">Videos</a></div>
       </nav></div>
 </header>
 <main class="page-content" aria-label="Content">
@@ -49,15 +49,20 @@
   <div class="post-content">
     <p>Our group aims to use modern machine-learning approaches to extend the state of the art of robotics and bring human-level autonomy and dexterity to Agile Justin.</p>
 
-<h2 id="in-hand-manipluation">In-Hand Manipluation</h2>
+<h2 id="in-hand-manipluation"><a href="https://aidx-lab.github.io/tactile-manipulation/">In-Hand Manipluation</a></h2>
 <p><img src="/assets/imgs/in-hand.png" alt="in-hand-manipulation" class="this" style="width: 1000px" />
-<a href="https://dlr-alr.github.io/dlr-tactile-manipulation/">more information</a></p>
+Dextrous in-hand manipulation is a challenging problem in robotics. 
+Due to modeling uncertainties, sensor noise, and other factors, classical control methods can solve this problem until now. 
+We work on this problem using reinforcement learning in simulation.
+Crucially, our approach is to learn a controller without external sensors, such as cameras [<a href="https://dlr-alr.github.io/dlr-tactile-manipulation/_pages/icra22.html">Sievers2022</a>].
+This creates the need for an object state estimator based on purely tactile feedback [<a href="https://dlr-alr.github.io/dlr-tactile-manipulation/_pages/humanoids23.html">Roestel2023</a>].
+We combine a simple policy network with the state estimator in a modular architecture to keep as much insight into the system as possible [<a href="https://dlr-alr.github.io/dlr-tactile-manipulation/_pages/icra23.html">Pitz2023</a>].</p>
 
-<h2 id="grasping">Grasping</h2>
+<h2 id="grasping"><a href="https://aidx-lab.github.io/grasping/">Grasping</a></h2>
 <p><img src="/assets/imgs/grasping.png" alt="in-hand-manipulation" class="this" style="width: 1000px" />
 <a href="https://dlr-alr.github.io/grasping">more information</a></p>
 
-<h2 id="motion-planning">Motion Planning</h2>
+<h2 id="motion-planning"><a href="https://aidx-lab.github.io/motion-planning/">Motion Planning</a></h2>
 <p><img src="/assets/imgs/motion-planning.jpg" alt="tactile-calibartion" class="this" style="width: 1000px" />
 Fast and efficient motion planning in unknown environments is the basis for combining Agile Justin’s individual skills to solve challenging tasks autonomously.</p>
 <ul>
@@ -65,8 +70,8 @@ Fast and efficient motion planning in unknown environments is the basis for comb
   <li>Unsupervised learning of solutions to the ambiguous IK problem while tackling the different modes with a twin-head architecture (<a href="https://dlr-alr.github.io/2023-humanoids-ik/">more information</a>)</li>
 </ul>
 
-<h2 id="calibration">Calibration</h2>
-<p><img src="../assets/imgs/calibration-tactile.jpg" alt="tactile-calibartion" class="this" style="width: 1000px" />
+<h2 id="calibration"><a href="https://aidx-lab.github.io/calibration/">Calibration</a></h2>
+<p><img src="/assets/imgs/calibration-tactile.jpg" alt="tactile-calibartion" class="this" style="width: 1000px" />
 An accurate model of the whole robot is crucial to perform dextrous manipulation and grasping.
 We developed self-contained calibration routines from the elastic rope mechanism in the torso to the fingertips of the torque-controlled DLR-Hand II.</p>
 <ul>

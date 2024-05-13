@@ -4,61 +4,63 @@ layout: page
 title: Team
 ---
 
-### Agile Justin
+
 <img align="left" src="../assets/imgs/group/agile-justin.jpeg" class="group">
-Humanoid Robot, 19DoF, torque-controlled, relaible workhorse of the lab\\
-justin@dlr.de 
+<span style="font-size:2.0em;">Agile Justin</span> <br/>
+Humanoid Robot, 19DoF, torque-controlled <br/>
+workhorse of the lab <br/>
+[justin@dlr.de](mailto:justin@dlr.de) <br/>
+<br/>
 
-### Berthold Bäuml
 <img align="left" src="../assets/imgs/group/baeuml-berthold.jpeg" class="group">
+<span style="font-size:2.0em;">Berthold Bäuml</span> <br/>
 Head of Group\\
-berthold.baeuml@tum.de 
-<br/><br/>
+[berthold.baeuml@tum.de](mailto:berthold.baeuml@tum.de)
+<br/><br/><br/>
 
-### Ulf Kasolowsky
 <img align="left" src="../assets/imgs/group/kasolowsky-ulf.jpeg" class="group">
-tactile sensing, fine manipulation \\
-PhD Student \\
-ulf.kasowolsky@tum.de
+<span style="font-size:2.0em;">Ulf Kasolowsky</span> <br/>
+PhD Student, tactile sensing, fine manipulation \\
+[ulf.kasowolsky@tum.de](mailto:ulf.kasowolsky@tum.de)
+<br/><br/><br/>
 
-### Felix Kroll
 <img align="left" src="../assets/imgs/group/kroll-felix.jpeg" class="group">
-tactile sensing, fine manipulation \\
-PhD Student \\
-felix.kroll@tum.de
+<span style="font-size:2.0em;">Felix Kroll</span> <br/>
+PhD Student, tactile sensing, fine manipulation \\
+[felix.kroll@tum.de](mailto:felix.kroll@tum.de)
+<br/><br/><br/>
 
-### Johannes Pitz
 <img align="left" src="../assets/imgs/group/pitz-johannes.jpeg" class="group">
-reinforcement learning, in-hand manipulation \\
-PhD Student \\
-johannes.pitz@tum.de
+<span style="font-size:2.0em;">Johannes Pitz</span> <br/>
+PhD Student, reinforcement learning, in-hand manipulation \\
+[johannes.pitz@tum.de](mailto:johannes.pitz@tum.de)
+<br/><br/><br/>
 
-### Lennart Röstel 
 <img align="left" src="../assets/imgs/group/roestel-lennart.jpeg" class="group">
-reinforcement learning, in-hand manipulation \\
-PhD Student \\
-lennart.roestel@tum.de
+<span style="font-size:2.0em;">Lennart Röstel </span> <br/>
+PhD Student, reinforcement learning, in-hand manipulation \\
+[lennart.roestel@tum.de](mailto:lennart.roestel@tum.de)
+<br/><br/><br/>
 
-### Leon Sievers
 <img align="left" src="../assets/imgs/group/sievers-leon.jpeg" class="group">
-in-hand manipulation, control, calibration \\
-PhD Student \\
-leon.sievers@tum.de
+<span style="font-size:2.0em;">Leon Sievers</span> <br/>
+PhD Student, in-hand manipulation, control, calibration \\
+[leon.sievers@tum.de](mailto:leon.sievers@tum.de)
+<br/><br/><br/>
 
-### Finn Süberkrüb
 <img align="left" src="../assets/imgs/group/suederkrueb-finn.jpeg" class="group">
-flight dynamics, V-TOL \\
-PhD Student \\
-finn.suederkrueb@tum.de
+<span style="font-size:2.0em;">Finn Süberkrüb</span> <br/>
+PhD Student, flight dynamics, V-TOL \\
+[finn.suederkrueb@tum.de](mailto:finn.suederkrueb@tum.de)
+<br/><br/><br/>
 
-### Johannes Tenhumberg
 <img align="left" src="../assets/imgs/group/tenhumberg-johannes.jpeg" class="group">
-motion planning, calibration \\
-PhD Student \\
-johannes.tenhumberg@tum.de
+<span style="font-size:2.0em;">Johannes Tenhumberg</span> <br/>
+PhD Student, motion planning, calibration \\
+[johannes.tenhumberg@tum.de](mailto:johannes.tenhumberg@tum.de)
+<br/><br/><br/>
 
-### Dominik Winkelbauer
 <img align="left" src="../assets/imgs/group/winkelbauer-dominik.jpeg" class="group">
-grasping \\
-PhD Student \\
-dominik.winkelbauer@tum.de
+<span style="font-size:2.0em;">Dominik Winkelbauer</span> <br/>
+PhD Student, grasping \\
+[dominik.winkelbauer@tum.de](mailto:dominik.winkelbauer@tum.de)

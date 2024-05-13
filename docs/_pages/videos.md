@@ -1,8 +1,8 @@
 ---
 permalink: /videos
-layout: page
+layout: redirect
 title: Videos
+redirect_to: https://youtube.com/playlist?list=PLbECwYTsgi4ZYIeFTpNmKQj4UHipQI_gT&feature=shared
 ---
 
-<iframe width="720" height="405" src="https://youtube.com/playlist?list=PLbECwYTsgi4ZYIeFTpNmKQj4UHipQI_gT&feature=shared" frameborder="0" allowfullscreen>
-
+test

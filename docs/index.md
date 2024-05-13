@@ -28,8 +28,6 @@ At our lab, we work with the award-winning mobile humanoid robot DLR Agile Justi
 * [Google Scholar](https://scholar.google.com/citations?user=fjvpDsEAAAAJ&hl=en&oi=ao)
 * [YouTube](https://youtube.com/playlist?list=PLbECwYTsgi4ZYIeFTpNmKQj4UHipQI_gT&feature=shared)
 
-
-###  Affiliations
 <img align="left" src="../assets/imgs/affiliations/aidx-lab.jpg" class="affiliation"> 
 <img src="../assets/imgs/affiliations/TUM.png" class="affiliation"> 
 <img src="../assets/imgs/affiliations/DLR.png" class="affiliation">

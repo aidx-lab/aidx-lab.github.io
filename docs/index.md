@@ -4,7 +4,7 @@ title:
 ---
 
 <br/><br/>
->  “Autonomously learning AI as the core principle for dextrous robotic manipulation.”
+>  “Autonomously learning AI is the core principle for dextrous robotic manipulation.”
 ---
 
 

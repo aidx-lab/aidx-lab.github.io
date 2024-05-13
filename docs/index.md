@@ -20,7 +20,7 @@ title:
 
 We are a joint research lab of the professorship "Learning AI for Dextrous Robots" at the [Technical University of Munich (TUM)](https://www.cit.tum.de/cit/startseite/) and the [Institute of Robotics & Mechatronics at Center at the German Aerospace Center (DLR)](https://www.dlr.de/de/rm/forschung/robotersysteme/humanoide/agile-justin). 
 Our goal is to create intelligent autonomous humanoid robots that come close to human capabilities, esp. with regard to dextrous manipulation with multi-fingered hands. We are conducting research in "Autonomously Learning AI" with a strong focus on modern deep (reinforcement) learning.\
-[Our program][_pages/research.md] connects basic research in artificial intelligence with highly relevant applications for society, such as industrial manufacturing (given the problem of labor shortage) or service robots as a "helper for the elderly" at home.\
+[[Our program](_pages/research.md)] connects basic research in artificial intelligence with highly relevant applications for society, such as industrial manufacturing (given the problem of labor shortage) or service robots as a "helper for the elderly" at home.\
 At our lab, we implement our methods on the award-winning mobile humanoid robot DLR Agile Justin with its torque-controlled DLR-Hands II. We also work on commercializing our ai methods and a new generation of a highly dextrous but robust robotic hand.
 
 ### Contact Information

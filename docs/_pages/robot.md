@@ -1,11 +1,8 @@
 ---
-permalink: /system
+permalink: /robot
 layout: page
-title: System
+title: Robot
 ---
-
-
-![in-hand-manipulation](../assets/imgs/agile-justin.jpg){:.this style="width: 500px"}
 
 While the methods of our group aim to be general and easy to apply to various robotic systems, the benchmark for validating and testing on actual hardware is Agile Justin.
 DLR’s humanoid Agile Justin is an advanced mechatronic system. 

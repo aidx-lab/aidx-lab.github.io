@@ -4,33 +4,40 @@ layout: page
 title: Group
 ---
 
-
-### Ulf Kasolowsky
 <img align="left" src="../assets/imgs/group/kasolowsky-ulf.jpeg" class="group">
+### Berthold Bäuml
+Heas of Group\\
+berthold.baeuml@tum.de \\
+
+
+<img align="left" src="../assets/imgs/group/kasolowsky-ulf.jpeg" class="group">
+### Ulf Kasolowsky
 tactile sensing, fine manipulation \\
 PhD Student \\
-ulf.kasowalsky@tum.de 
- 
+ulf.kasowolsky@tum.de \\
 
-### Felix Kroll
+---
 <img align="left" src="../assets/imgs/group/kroll-felix.jpeg" class="group">
+### Felix Kroll
 tactile sensing, fine manipulation \\
 PhD Student \\
 felix.kroll@tum.de
 
-
+---
 ### Johannes Pitz
 <img align="left" src="../assets/imgs/group/pitz-johannes.jpeg" class="group">
 reinforcement learning, in-hand manipulation \\
 PhD Student \\
 johannes.pitz@tum.de
 
+---
 ### Lennart Röstel 
 <img align="left" src="../assets/imgs/group/roestel-lennart.jpeg" class="group">
 reinforcement learning, in-hand manipulation \\
 PhD Student \\
 lennart.roestel@tum.de
 
+---
 ### Leon Sievers
 <img align="left" src="../assets/imgs/group/sievers-leon.jpeg" class="group">
 in-hand manipulation, control, calibration \\

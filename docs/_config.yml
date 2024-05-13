@@ -2,14 +2,17 @@ theme: minima
 markdown: kramdown
 
 title: |-
-    Agile Justin
+    Learning AI for Dextrous Robots
 
 author: berthold.baeuml@tum.de
 
+social_links:
+  - { platform: youtube,  user_url: "https://github.com/aidx-lab/aidx-lab" }
+
 header_pages:
-  - _pages/group.md
-  - _pages/system.md
   - _pages/research.md
+  - _pages/robot.md
+  - _pages/group.md
   - _pages/videos.md
 
 

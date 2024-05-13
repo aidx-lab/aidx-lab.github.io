@@ -26,7 +26,7 @@ At our lab, we work with the award-winning mobile humanoid robot DLR Agile Justi
 * [Prof. Dr.-Ing. Berthold Bäuml](https://www.professoren.tum.de/en/baeuml-berthold)
 * [Email: berthold.baeuml@tum.de](mailto:berthold.baeuml@tum.de)
 * [LinkedIn](https://www.linkedin.com/in/berthold-bäuml-648b05288/)
-* [Google Scholar](https://scholar.google.com/citations?user=fjvpDsEAAAAJ&hl=en&oi=ao)
+* [Google Scholar](https://scholar.google.com/citations?hl=en&user=fjvpDsEAAAAJ&view_op=list_works&sortby=pubdate)
 * [YouTube](https://youtube.com/playlist?list=PLbECwYTsgi4ZYIeFTpNmKQj4UHipQI_gT&feature=shared)
 
 <img  align="left" src="../assets/imgs/affiliations/TUM.png" class="affiliation"> 

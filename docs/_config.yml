@@ -14,7 +14,8 @@ header_pages:
   - _pages/robot.md
   - _pages/team.md
   - _pages/videos.md
-
+  - _pages/publications.md
+  
 include:
     - _pages
 

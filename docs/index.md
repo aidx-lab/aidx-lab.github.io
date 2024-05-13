@@ -24,7 +24,7 @@ Our goal is to create intelligent autonomous humanoid robots that come close to 
 At our lab, we implement our methods on the award-winning mobile humanoid robot [DLR Agile Justin](https://www.dlr.de/de/rm/forschung/robotersysteme/humanoide/agile-justin) with its torque-controlled DLR-Hands II. We also work on commercializing our ai methods and a new generation of a highly dextrous but robust robotic hand.
 
 ### Contact Information
-* [Prof. Dr.-Ing. Berthold Bäuml](https://www.professoren.tum.de/en/baeuml-berthold)
+* [Prof. Dr.-Ing. Berthold Bäuml](https://campus.tum.de/tumonline/pl/ui/$ctx;design=pl;header=max;lang=DE/visitenkarte.show_vcard?pPersonenId=716BA3488FEBED66&pPersonenGruppe=3)
 * [Email: berthold.baeuml@tum.de](mailto:berthold.baeuml@tum.de)
 * [LinkedIn](https://www.linkedin.com/in/berthold-bäuml-648b05288/)
 * [Google Scholar](https://scholar.google.com/citations?hl=en&user=fjvpDsEAAAAJ&view_op=list_works&sortby=pubdate)

@@ -13,8 +13,9 @@ header_pages:
   - _pages/research.md
   - _pages/robot.md
   - _pages/team.md
-  - _pages/videos.md
   - _pages/publications.md
+  - _pages/videos.md
+
   
 include:
     - _pages

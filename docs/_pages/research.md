@@ -4,8 +4,7 @@ layout: page
 title: Research
 ---
 
-Our lab aims to use modern machine-learning approaches to extend the state of the art of robotics and bring human-level autonomy and dexterity to Agile Justin. 
-
+Our research in “Autonomous Learning AI” has the goal to bring human level autonomy and dexterity to humanoid robots like our DLR Agile Justin. The focus is on deep (reinforcement) learning based on first principles and simulation models (no human demonstrations or arbitrary internet videos ...) and the results are zero-shot transferred to the real system.
 
 
 ## [Purely Tactile In-Hand Manipluation](https://dlr-alr.github.io/dlr-tactile-manipulation)

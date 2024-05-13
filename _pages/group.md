@@ -9,7 +9,7 @@ title: Group
 <img align="left" src="../assets/imgs/group/kasolowsky-ulf.jpeg" class="group">
 tactile sensing, fine manipulation \\
 PhD Student \\
-&#128231; ulf.kasowalsky@tum.de 
+ulf.kasowalsky@tum.de 
  
 
 ### Felix Kroll

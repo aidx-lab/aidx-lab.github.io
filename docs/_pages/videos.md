@@ -4,4 +4,5 @@ layout: page
 title: Videos
 ---
 
-<script src="https://bibbase.org/show?bib=https://bibbase.org/network/files/rNC9qHstdycsJZAaa&jsonp=1"></script> 
+<iframe width="720" height="405" src="https://youtube.com/playlist?list=PLbECwYTsgi4ZYIeFTpNmKQj4UHipQI_gT&feature=shared" frameborder="0" allowfullscreen>
+

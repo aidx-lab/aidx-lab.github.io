@@ -19,6 +19,12 @@ We combine a simple policy network with the state estimator in a modular archite
 ## [Grasping Unknown Objects with a Multi-fingered Hand](https://dlr-alr.github.io/grasping/)
 ![in-hand-manipulation](../assets/imgs/grasping.png){:.this style="width: 1000px"}
 [more information](https://dlr-alr.github.io/grasping)
+Grasping unknown objects with the 12-DoF DLR Hand II based on a single-view depth image in real-time.
+* Using an analytical grasp planer, a large high-quality training dataset is generated which is used to tr  ain a generative grasping network that is able to generate 1000 grasps for a given unknown object in under 1s [[Winkelbauer2022](https://dlr-alr.github.io/grasping/_pages/iros22.html)]
+* Combined with learning-based shape completion, we are able to grasp all kinds of objects only based on single depth image [[Humt2023](https://dlr-alr.github.io/grasping/_pages/humanoids23.html)]
+* Determining the torques to apply in each joint based on the object shape and the given grasp to reduce involuntary object movement and increase efficiency [[Winkelbauer2023](https://dlr-alr.github.io/grasping/_pages/iros23.html)]
+
+
 
 ## [Fast Whole-body Collission-free Motion Planning](https://aidx-lab.github.io/2022-iros-planning/)
 ![tactile-calibartion](../assets/imgs/motion-planning.jpg){:.this style="width: 1000px"}

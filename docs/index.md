@@ -5,7 +5,7 @@ title:
 
 
 <img align="right" src="../assets/imgs/affiliations/aidx-lab.jpg" class="aidx"> 
->  “Autonomously learning AI as the core principle for dextrous robotic manipulation.”
+>  “Autonomously learning AI as the core principle for dextrous robotic manipulation”
 ---
 
 

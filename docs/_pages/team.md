@@ -11,7 +11,7 @@ title: Team
 Humanoid Robot, 19DoF, torque-controlled <br/>
 workhorse of the lab <br/>
 [justin@dlr.de](mailto:justin@dlr.de) <br/>
-<div>
+</div>
 <br/>
 
 <img align="left" src="../assets/imgs/group/baeuml-berthold.jpeg" class="group">

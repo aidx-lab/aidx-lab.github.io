@@ -12,7 +12,7 @@ title:
 <br/><br/>
 
 <p align="center">
-<iframe class="youtube-video" width="746" height="420" src="https://www.youtube.com/embed/videoseries?si=kAiVA_3KLpnSaI3t&amp;list=PLbECwYTsgi4ZYIeFTpNmKQj4UHipQI_gT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe class="youtube-video" width="746" height="420" src="https://www.youtube.com/embed/CZBMXDM1_Tk?si=gYn4CwDU74y5kuEi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </p>
 
 <br/><br/>

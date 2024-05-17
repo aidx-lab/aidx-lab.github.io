@@ -25,7 +25,7 @@ Grasping unknown objects with the 12-DoF DLR Hand II based on a single-view dept
 
 
 
-## [Fast Whole-body Collission-free Motion Planning](https://aidx-lab.github.io/2022-iros-planning/)
+## [Fast Whole-body Collision-free Motion Planning](https://aidx-lab.github.io/2022-iros-planning/)
 ![tactile-calibartion](../assets/imgs/motion-planning.jpg){:.this style="width: 1000px"}
 Fast and efficient motion planning in unknown environments is the basis for combining Agile Justin's individual skills to solve challenging tasks autonomously. 
 * Supervised learning of optimal motions in unknown, challenging environments to speed up optimization-based motion planning [[Tenhumberg2022](https://aidx-lab.github.io/2022-iros-planning/)]

@@ -10,7 +10,7 @@ title: Research
 ## [Purely Tactile In-Hand Manipluation](https://dlr-alr.github.io/dlr-tactile-manipulation)
 ![in-hand-manipulation](../assets/imgs/in-hand.png){:.this style="width: 1000px"}
 Dextrous in-hand manipulation is a challenging problem in robotics. 
-Due to modeling uncertainties, sensor noise, and other factors, classical control methods can solve this problem until now. 
+Due to modeling uncertainties, sensor noise, and other factors, classical control methods can not solve this problem until now. 
 We work on this problem using reinforcement learning in simulation.
 Crucially, our approach is to learn a controller without external sensors, such as cameras [[Sievers2022](https://dlr-alr.github.io/dlr-tactile-manipulation/_pages/icra22.html)].
 This creates the need for an object state estimator based on purely tactile feedback [[Roestel2023](https://dlr-alr.github.io/dlr-tactile-manipulation/_pages/humanoids23.html)].

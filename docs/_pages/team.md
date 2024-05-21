@@ -59,8 +59,8 @@ PhD Student, reinforcement learning, in-hand manipulation \\
 <div class="member-details" markdown="1">
 <span style="font-size:2.0em;">Leon Sievers</span> <br/>
 **PhD Student**\\
-In-Hand manipulation, control, calibration \\
-[leon.sievers@tum.de](mailto:leon.sievers@tum.de)
+In-Hand manipulation, Control, Calibration \\
+[leon.sievers@tum.de](mailto:leon.sievers@tum.de)\\
 [LinkedIn](https://www.linkedin.com/in/leon-sievers/),  [Google Scholar](https://scholar.google.com/citations?user=i3pxG6IAAAAJ)
 </div>
 <br/><br/><br/>

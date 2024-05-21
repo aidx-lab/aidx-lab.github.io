@@ -17,7 +17,7 @@ title: Team
 <img align="left" src="../assets/imgs/group/baeuml-berthold.jpeg" class="group">
 <div class="member-details" markdown="1">
 <span style="font-size:2.0em;">Berthold Bäuml</span> <br/>
-[**Professor**](https://campus.tum.de/tumonline/pl/ui/$ctx;design=pl;header=max;lang=DE/visitenkarte.show_vcard?pPersonenId=716BA3488FEBED66&pPersonenGruppe=3) & Head of Lab\\
+[**Professor**](https://campus.tum.de/tumonline/pl/ui/$ctx;design=pl;header=max;lang=DE/visitenkarte.show_vcard?pPersonenId=716BA3488FEBED66&pPersonenGruppe=3) **& Head of Lab**\\
 [berthold.baeuml@tum.de](mailto:berthold.baeuml@tum.de)\\
 [LinkedIn](https://www.linkedin.com/in/berthold-bäuml-648b05288/),  [Google Scholar](https://scholar.google.com/citations?hl=en&user=fjvpDsEAAAAJ&view_op=list_works&sortby=pubdate)
 </div>

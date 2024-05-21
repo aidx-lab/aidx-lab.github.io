@@ -8,8 +8,8 @@ title: Team
 <img align="left" src="../assets/imgs/group/agile-justin.jpeg" class="group">
 <div class="member-details" markdown="1">
 <span style="font-size:2.0em;">Agile Justin</span> <br/>
-Humanoid Robot, 19DoF, torque-controlled <br/>
-workhorse of the lab <br/>
+**Humanoid Robot**\\
+19DoF, torque-controlled workhorse of the lab <br/>
 [justin@dlr.de](mailto:justin@dlr.de) <br/>
 </div>
 <br/>

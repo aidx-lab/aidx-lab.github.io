@@ -10,6 +10,7 @@ social_links:
   - { platform: youtube,  user_url: "https://github.com/aidx-lab/aidx-lab" }
 
 header_pages:
+  - index.md
   - _pages/research.md
   - _pages/robot.md
   - _pages/team.md

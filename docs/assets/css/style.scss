@@ -8,9 +8,14 @@
 
 .site-title {
   white-space: break-spaces;
-  font-size: 55px
+  font-size: 50px
 }
 
+@media only screen and (max-width: 600px) {
+  .site-title {
+    font-size: 45px
+  }
+}
 
 img.group {
   width: 130px;
@@ -20,22 +25,39 @@ img.group {
   margin-bottom: 3px;
 }
 
+.affiliation-wrapper {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
 
 img.affiliation {
   height: 100px;
-  margin-left: 50px;
   margin-right: 50px;
-  margin-top: 10px;
+  margin-top: 24px;
   margin-bottom: 10px;
+  display: inline-block;
 }
 
+img.affiliation:last-child {
+  margin-right: 0;
+}
 
 img.aidx {
   height: 140px;
   margin-left: 70px;
   margin-right: 50px;
   margin-top: 0px;
-  margin-bottom: 50px;
+  margin-bottom: 20px;
+  float: right;
+  display: block;
+}
+@media only screen and (max-width: 600px) {
+  img.aidx {
+    margin-left: auto;
+    margin-right: auto;
+    float: none;
+  }
 }
 
 .youtube-video {
@@ -50,6 +72,19 @@ img.aidx {
   max-width: 100%;
 }
 
+.member {
+  display: flex;
+}
+@media only screen and (max-width: 600px) {
+  .member {
+    flex-direction: column;
+  }
+}
+
 .member-details p {
   margin-bottom: 0;
+}
+
+.post-content h1, .post-content h2, .post-content h3 {
+  margin-top: 35px;
 }

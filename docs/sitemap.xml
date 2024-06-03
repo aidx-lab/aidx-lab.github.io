@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://aidx-lab.org/</loc>
+  <lastmod>2024-06-03T08:24:01+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://aidx-lab.org/research</loc>
+  <lastmod>2024-06-03T08:24:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://aidx-lab.org/robot</loc>
+  <lastmod>2024-06-03T08:24:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://aidx-lab.org/team</loc>
+  <lastmod>2024-06-03T08:24:01+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://aidx-lab.org/manipulation/</loc>
+  <lastmod>2024-05-27T21:26:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://aidx-lab.org/manipulation/icra22</loc>
+  <lastmod>2024-05-27T21:26:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://aidx-lab.org/manipulation/humanoids23</loc>
+  <lastmod>2024-05-27T21:26:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://aidx-lab.org/manipulation/icra23</loc>
+  <lastmod>2024-05-27T21:26:20+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://aidx-lab.org/grasping/</loc>
+  <lastmod>2024-05-27T21:23:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://aidx-lab.org/grasping/iros22</loc>
+  <lastmod>2024-05-27T21:23:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://aidx-lab.org/grasping/humanoids23</loc>
+  <lastmod>2024-05-27T21:23:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://aidx-lab.org/grasping/iros23</loc>
+  <lastmod>2024-05-27T21:23:37+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://aidx-lab.org/planning/</loc>
+  <lastmod>2024-05-27T21:16:29+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://aidx-lab.org/2022-iros-planning/</loc>
+  <lastmod>2024-05-27T21:04:32+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://aidx-lab.org/2023-humanoids-ik/</loc>
+  <lastmod>2024-05-27T21:02:57+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://aidx-lab.org/2021-humanoids-elastic/</loc>
+  <lastmod>2024-05-27T21:20:06+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://aidx-lab.org/2022-humanoids-rgb/</loc>
+  <lastmod>2024-05-27T20:05:11+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://aidx-lab.org/2023-humanoids-contact/</loc>
+  <lastmod>2024-05-27T19:54:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://aidx-lab.org/manipulation/iros24</loc>
+  <lastmod>2024-05-27T21:26:20+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://aidx-lab.org/2022-iros-planning/robots</loc>
+  <lastmod>2024-05-27T21:04:32+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://aidx-lab.org/2022-iros-planning/worlds</loc>
+  <lastmod>2024-05-27T21:04:32+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://aidx-lab.org/2022-iros-planning/chomp</loc>
+  <lastmod>2024-05-27T21:04:32+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://aidx-lab.org/2022-iros-planning/bps</loc>
+  <lastmod>2024-05-27T21:04:32+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://aidx-lab.org/2022-iros-planning/training</loc>
+  <lastmod>2024-05-27T21:04:32+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://aidx-lab.org/2022-iros-planning/results</loc>
+  <lastmod>2024-05-27T21:04:32+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://aidx-lab.org/2022-iros-planning/dataset</loc>
+  <lastmod>2024-05-27T21:04:32+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://aidx-lab.org/2022-iros-planning/gallery</loc>
+  <lastmod>2024-05-27T21:04:32+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://aidx-lab.org/2023-humanoids-ik/robots</loc>
+  <lastmod>2024-05-27T21:02:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://aidx-lab.org/2023-humanoids-ik/worlds</loc>
+  <lastmod>2024-05-27T21:02:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://aidx-lab.org/2023-humanoids-ik/bps</loc>
+  <lastmod>2024-05-27T21:02:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://aidx-lab.org/2023-humanoids-ik/methods</loc>
+  <lastmod>2024-05-27T21:02:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://aidx-lab.org/2023-humanoids-ik/results</loc>
+  <lastmod>2024-05-27T21:02:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://aidx-lab.org/2023-humanoids-ik/gallery</loc>
+  <lastmod>2024-05-27T21:02:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://aidx-lab.org/2023-humanoids-ik/code</loc>
+  <lastmod>2024-05-27T21:02:57+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://aidx-lab.org/2021-humanoids-elastic/robot</loc>
+  <lastmod>2024-05-27T21:20:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://aidx-lab.org/2021-humanoids-elastic/methods</loc>
+  <lastmod>2024-05-27T21:20:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://aidx-lab.org/2021-humanoids-elastic/results</loc>
+  <lastmod>2024-05-27T21:20:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://aidx-lab.org/2021-humanoids-elastic/dataset</loc>
+  <lastmod>2024-05-27T21:20:06+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://aidx-lab.org/2022-humanoids-rgb/robot</loc>
+  <lastmod>2024-05-27T20:05:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://aidx-lab.org/2022-humanoids-rgb/camera</loc>
+  <lastmod>2024-05-27T20:05:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://aidx-lab.org/2022-humanoids-rgb/methods</loc>
+  <lastmod>2024-05-27T20:05:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://aidx-lab.org/2022-humanoids-rgb/results</loc>
+  <lastmod>2024-05-27T20:05:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://aidx-lab.org/2022-humanoids-rgb/dataset</loc>
+  <lastmod>2024-05-27T20:05:11+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://aidx-lab.org/calibration/</loc>
+  <lastmod>2024-05-27T21:23:04+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://aidx-lab.org/calibration/tro24</loc>
+  <lastmod>2024-05-27T21:23:04+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+
+
+</urlset>

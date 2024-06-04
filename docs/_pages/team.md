@@ -89,7 +89,7 @@ In-Hand Manipulation, Control, Calibration \\
 <span style="font-size:2.0em;">Finn Süberkrüb</span> <br/>
 **PhD Student**\\
 Flight Dynamics, V-TOL \\
-[finn.suederkrueb@tum.de](mailto:finn.sueberkrueb@tum.de)
+[finn.sueberkrueb@tum.de](mailto:finn.sueberkrueb@tum.de)
 </div>
 </div>
 <br/><br/><br/>

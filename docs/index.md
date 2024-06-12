@@ -15,7 +15,7 @@ title: Overview
 
 <blockquote>
 <img src="../assets/imgs/affiliations/aidx-lab.jpg" class="aidx"> 
-<h2>“Autonomously learning AI as the core principle for dextrous robotic manipulation - AIDX Lab”</h2>
+<h2>“Autonomously learning AI as the core principle for dextrous robotic manipulation”</h2>
 </blockquote>
 
 <br/>

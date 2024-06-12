@@ -2,7 +2,8 @@ theme: minima
 markdown: kramdown
 
 title: |-
-    Learning AI for Dextrous Robots - AIDX Lab
+    | Learning AI for Dextrous Robots
+    | AIDX Lab
 
 author: berthold.baeuml@tum.de
 

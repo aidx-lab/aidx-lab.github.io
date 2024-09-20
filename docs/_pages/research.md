@@ -24,8 +24,9 @@ Grasping unknown objects with the 12-DoF DLR Hand II based on a single-view dept
 * Combined with learning-based shape completion, we are able to grasp all kinds of objects only based on single depth image [[Humt2023](https://aidx-lab.org/grasping/humanoids23)]
 * Determining the torques to apply in each joint based on the object shape and the given grasp to reduce involuntary object movement and increase efficiency [[Winkelbauer2023](https://aidx-lab.org/grasping/iros23)]
 
-<!-- ## [Fine Manipulation Using a Tactile Skin](https://aidx-lab.github.io/skin)
-![skin](../assets/imgs/skin.jpg){:.this style="width: 1000px"} -->
+## [Fine Manipulation Using a Tactile Skin](https://aidx-lab.github.io/skin)
+![skin](../assets/imgs/skin.jpg){:.this style="width: 1000px"}
+Key for fine manipulation with a multi-fingered robotic hand is a spatially resolved tactile sensor. To apply modern deep reinforcement learning methods, we propose a novel model of a tactile skin that can be used together with rigid-body physics simulator [[Kasolowsky2024](https://aidx-lab.org/skin/iros24)].
 
 
 ## [Fast Whole-body Collision-free Motion Planning](https://aidx-lab.org/planning/)

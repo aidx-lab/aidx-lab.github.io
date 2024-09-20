@@ -26,7 +26,7 @@ Grasping unknown objects with the 12-DoF DLR Hand II based on a single-view dept
 
 ## [Fine Manipulation Using a Tactile Skin](https://aidx-lab.github.io/skin)
 ![skin](../assets/imgs/skin.jpg){:.this style="width: 1000px"}
-Key for fine manipulation with a multi-fingered robotic hand is a spatially resolved tactile sensor. To apply modern deep reinforcement learning methods, we propose a novel model of a tactile skin that can be used together with rigid-body physics simulator [[Kasolowsky2024](https://aidx-lab.org/skin/iros24)].
+Key for fine manipulation with a multi-fingered robotic hand is a spatially resolved tactile sensor. To apply modern deep reinforcement learning methods, we propose a novel model of a tactile skin that can be used together with rigid-body physics simulators [[Kasolowsky2024](https://aidx-lab.org/skin/iros24)].
 
 
 ## [Fast Whole-body Collision-free Motion Planning](https://aidx-lab.org/planning/)

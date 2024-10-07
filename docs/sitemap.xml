@@ -6,65 +6,69 @@
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
-
 <url>
   <loc>https://aidx-lab.org/</loc>
-  <lastmod>2024-06-03T08:24:01+00:00</lastmod>
+  <lastmod>2024-09-20T10:05:24+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://aidx-lab.org/research</loc>
-  <lastmod>2024-06-03T08:24:01+00:00</lastmod>
+  <lastmod>2024-09-20T10:05:24+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://aidx-lab.org/robot</loc>
-  <lastmod>2024-06-03T08:24:01+00:00</lastmod>
+  <lastmod>2024-09-20T10:05:24+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://aidx-lab.org/team</loc>
-  <lastmod>2024-06-03T08:24:01+00:00</lastmod>
+  <lastmod>2024-09-20T10:05:24+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://aidx-lab.org/manipulation/</loc>
-  <lastmod>2024-05-27T21:26:20+00:00</lastmod>
+  <lastmod>2024-09-23T12:05:38+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://aidx-lab.org/manipulation/icra22</loc>
-  <lastmod>2024-05-27T21:26:20+00:00</lastmod>
+  <lastmod>2024-09-23T12:05:38+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://aidx-lab.org/manipulation/humanoids23</loc>
-  <lastmod>2024-05-27T21:26:20+00:00</lastmod>
+  <lastmod>2024-09-23T12:05:38+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://aidx-lab.org/manipulation/icra23</loc>
-  <lastmod>2024-05-27T21:26:20+00:00</lastmod>
+  <loc>https://aidx-lab.org/manipulation/iros24</loc>
+  <lastmod>2024-09-23T12:05:38+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://aidx-lab.org/grasping/</loc>
-  <lastmod>2024-05-27T21:23:37+00:00</lastmod>
+  <lastmod>2024-09-20T16:49:53+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://aidx-lab.org/grasping/iros22</loc>
-  <lastmod>2024-05-27T21:23:37+00:00</lastmod>
+  <lastmod>2024-09-20T16:49:53+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://aidx-lab.org/grasping/humanoids23</loc>
-  <lastmod>2024-05-27T21:23:37+00:00</lastmod>
+  <lastmod>2024-09-20T16:49:53+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://aidx-lab.org/grasping/iros23</loc>
-  <lastmod>2024-05-27T21:23:37+00:00</lastmod>
+  <lastmod>2024-09-20T16:49:53+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://aidx-lab.org/skin/iros24</loc>
+  <lastmod>2024-09-22T19:07:10+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
@@ -98,8 +102,18 @@
   <priority>0.64</priority>
 </url>
 <url>
-  <loc>https://aidx-lab.org/manipulation/iros24</loc>
-  <lastmod>2024-05-27T21:26:20+00:00</lastmod>
+  <loc>https://aidx-lab.org/manipulation/icra23</loc>
+  <lastmod>2024-09-23T12:05:38+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://aidx-lab.org/grasping/iros24</loc>
+  <lastmod>2024-09-20T16:49:53+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://aidx-lab.org/skin/</loc>
+  <lastmod>2024-09-22T19:07:10+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
@@ -184,17 +198,17 @@
 </url>
 <url>
   <loc>https://aidx-lab.org/2021-humanoids-elastic/methods</loc>
-  <lastmod>2024-05-27T21:20:06+00:00</lastmod>
+  <lastmod>2024-05-27T21:20:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://aidx-lab.org/2021-humanoids-elastic/results</loc>
-  <lastmod>2024-05-27T21:20:06+00:00</lastmod>
+  <lastmod>2024-05-27T21:20:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>
   <loc>https://aidx-lab.org/2021-humanoids-elastic/dataset</loc>
-  <lastmod>2024-05-27T21:20:06+00:00</lastmod>
+  <lastmod>2024-05-27T21:20:07+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 <url>

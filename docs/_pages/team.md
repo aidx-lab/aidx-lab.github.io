@@ -33,7 +33,7 @@ title: Team
 <span style="font-size:2.0em;">Ulf Kasolowsky</span> <br/>
 **PhD Student**\\
 Tactile Sensing, Fine Manipulation \\
-[ulf.kasowolsky@tum.de](mailto:ulf.kasowolsky@tum.de)\\
+[ulf.kasowolsky@tum.de](mailto:ulf.kasolowsky@tum.de)\\
 [LinkedIn](https://www.linkedin.com/in/kasolowsky),  [Google Scholar](https://scholar.google.com/citations?user=P1uSpNEAAAAJ&hl=de&oi=ao)
 </div>
 </div>

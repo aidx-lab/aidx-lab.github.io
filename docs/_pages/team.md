@@ -101,10 +101,12 @@ Flight Dynamics, V-TOL \\
 <span style="font-size:2.0em;">Johannes Tenhumberg</span> <br/>
 **PhD Student**\\
 Motion Planning, Calibration \\
-[johannes.tenhumberg@tum.de](mailto:johannes.tenhumberg@tum.de)
+[johannes.tenhumberg@tum.de](mailto:johannes.tenhumberg@tum.de)\\
+[LinkedIn](https://www.linkedin.com/in/johannes-tenhumberg/),  [Google Scholar](https://scholar.google.com/citations?user=2RZuYZMAAAAJ)  
 </div>
 </div>
 <br/><br/><br/>
+
 
 <div class="member" >
 <img src="../assets/imgs/group/winkelbauer-dominik.jpeg" class="group">

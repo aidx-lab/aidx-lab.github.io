@@ -4,6 +4,53 @@ layout: page
 title: NVIDIA Newton Physics @ AIDX Lab
 ---
 
+ <style>
+    .video {
+        position: relative;
+        padding-bottom: 56.25%;
+        /* 16:9 */
+        height: 0;
+    }
+
+    .video img {
+        display: block;
+        width: 100%;
+        height: auto;
+        cursor: pointer;
+    }
+
+    .video:after {
+        content: "";
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        width: 64px;
+        height: 64px;
+        background: url('assets/imgs/play-button.png') no-repeat center center;
+        background-size: contain;
+        transform: translate(-50%, -50%);
+        pointer-events: none;
+    }
+
+    .video iframe {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+    }
+
+    /* image poster clicked, player class added using js */
+    .video.player img {
+        display: none;
+    }
+
+    .video.player:after {
+        display: none;
+    }
+</style>
+
+
 In this blog we report on some of our initial experiments with [Newton Pysics](https://newton-physics.github.io/newton/api/newton.html).
 Newton is meant to be ... 
 Newton is still in alpha.
@@ -263,8 +310,42 @@ class NewtonSIL:
 
 ### Learning with MJWarp works
 
+
 <p align="center">
-<iframe class="youtube-video" width="746" height="420" src="https://www.youtube.com/embed/0VvSIvtHTq0?start=60" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div class="video">
+    <img src="assets/imgs/grasping.jpg">
+    <!-- <iframe width="746" height="420" src="https://www.youtube.com/embed/0VvSIvtHTq0?start=60&autoplay=1"  frameborder="0" allowfullscreen></iframe>-->
+</div>
 </p>
 
 ### Future: simple API perfect fir for use in course
+
+
+
+
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+    var videos = document.querySelectorAll(".video");
+
+    videos.forEach(function(video) {
+        video.addEventListener("click", function() {
+            var conts = video.childNodes;
+            var le = conts.length;
+            var ifr = null;
+
+            for (var i = 0; i < le; i++) {
+                if (conts[i].nodeType === 8) { // comment node
+                    ifr = conts[i].textContent;
+                }
+            }
+
+            if (ifr) {
+                video.classList.add("player");
+                video.innerHTML = ifr;
+                video.removeEventListener("click", arguments.callee);
+            }
+        });
+    });
+});
+
+</script>

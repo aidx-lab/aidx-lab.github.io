@@ -51,17 +51,18 @@ title: NVIDIA Newton Physics @ AIDX Lab
 </style>
 
 
-In this blog we report on some of our initial experiments with [Newton Pysics](https://newton-physics.github.io/newton/api/newton.html).
-Newton is meant to be ... 
-Newton is still in alpha.
-We tested our demanding in-hand manipulation simulation to find out if it is reasonable to use Newton as our main simulation engine in the future.
 
-TLDR:
-- some mujoco configurations are not automatically imported into newton
-- it's already possible to set (almost) everything through the `newton.solvers.SolverMuJoCo`
-- we validated that the simulation is realistic by running a real-world-tested RL controller
-- initial experiments with training in newton look promising in terms of speed and converged policies
-- thanks to the simple API we are planning to use newton for research projects in the context of our ADLR lecture at TUM
+In this post, we share our first hands-on experiences with [Newton Physics](https://newton-physics.github.io/newton/api/newton.html) — a new, lightweight simulation engine designed to be both easy to use and fast, especially for robotics applications. Although Newton is still in **alpha**, we were curious to see how it performs in one of our most demanding testbeds: in-hand manipulation. Our goal was to evaluate whether Newton could become a serious candidate as our main simulation engine in the future.
+
+**TL;DR**
+
+* Some MuJoCo configurations don’t import automatically into Newton
+* Almost everything can already be configured via `newton.solvers.SolverMuJoCo`
+* We validated realism by running a real-world-tested RL controller
+* Early training experiments show promising speed and convergence
+* Thanks to the simple API, we plan to use Newton in upcoming ADLR research projects at TUM
+
+
 
 ### Running a real-world-tested RL controller in Newton Physics
 
@@ -69,20 +70,18 @@ TLDR:
 <iframe class="youtube-video" width="746" height="420" src="https://www.youtube.com/embed/0VvSIvtHTq0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </p>
 
-For us to switch to newton as our main simulation engine it crucial that the **contact dynamics are very adjustable and stable**.
-As a first experiment we want to run our [real-world-tested RL controller](https://aidx-lab.org/manipulation/iros24) in a Software-in-the-Loop (SIL) setup.
-We already have a SIL setup with isaacsim (our main simulation engine) as a backend.
-We use it to test the RL Controller script before running it on the real robot.
-Thank's to the message communication with the robot the interface is very simple and it was not difficult to implement a newton version.
 
-We added the code with some annotations below, but the main difficulties we encounted were:
-- a
-- b
-- c
+For us to consider Newton as a main simulation engine, it’s crucial that the **contact dynamics are both highly adjustable and stable**. As a first experiment, we decided to run our [real-world-tested RL controller](https://aidx-lab.org/manipulation/iros24) in a Software-in-the-Loop (SIL) setup.
 
-For all of them we found simple work arounds (see below).
-And with everything setup corretly we can now use the RL controller manipulate the object.
-For us this proves that all the necessary features to simulate complex in-hand manipulation are already present in newton.
+We already use a SIL setup with IsaacSim (our current primary simulation engine) as the backend. It allows us to test the RL controller script before deploying it on the real robot. Thanks to the simple message-based communication with the robot, the interface is straightforward, and adapting it for Newton was not difficult.
+
+We’ve added the code with annotations below. The main challenges we encountered were:
+
+* **Actuator setup**
+* **Friction configuration**
+
+For both, we found simple workarounds (described below). With everything configured correctly, the RL controller can now manipulate the object inside Newton. For us, this demonstrates that Newton already provides the essential features needed to simulate complex in-hand manipulation tasks.
+
 
 <details><summary>Code</summary>  
 <pre><code><small>from itertools import product
@@ -308,7 +307,7 @@ class NewtonSIL:
 
 
 
-### Learning with MJWarp works
+### Learning with MuJoCo Warp backend works
 
 
 <p align="center">
@@ -318,8 +317,14 @@ class NewtonSIL:
 </div>
 </p>
 
-### Future: simple API perfect fir for use in course
+As the next step, we began implementing a simplified version of our full simulation backend. In this setup, we ignored all configurations and left out domain randomization. The main effort was in providing the required states to our learning framework and enabling detailed access for resetting the simulation.
 
+While this took a bit more time to implement, it is now fully functional. Training — despite not yet tuned for maximum speed — already runs at a pace comparable to our IsaacSim-based setup. This is a promising sign that Newton can keep up with our existing workflow while offering a simpler and lighter interface.
+
+
+### Conclusion
+
+For us, this opens the door to using Newton not only in research but also in teaching contexts, such as hands-on projects in the ADLR lecture at TUM, where ease of use and speed are key.
 
 
 

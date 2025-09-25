@@ -51,7 +51,6 @@ title: NVIDIA Newton Physics @ AIDX Lab
 </style>
 
 
-
 In this post, we share our first hands-on experiences with [Newton Physics](https://newton-physics.github.io/newton/api/newton.html) — a new, lightweight simulation engine designed to be both easy to use and fast, especially for robotics applications. Although Newton is still in **alpha**, we were curious to see how it performs in one of our most demanding testbeds: in-hand manipulation. Our goal was to evaluate whether Newton could become a serious candidate as our main simulation engine in the future.
 
 **TL;DR**
@@ -326,6 +325,7 @@ While this took a bit more time to implement, it is now fully functional. Traini
 
 For us, this opens the door to using Newton not only in research but also in teaching contexts, such as hands-on projects in the ADLR lecture at TUM, where ease of use and speed are key.
 
+<small>This work was carried out by [Dominik Winkelbauer](https://scholar.google.com/citations?user=kduGd8wAAAAJ){:target="_blank"} and [Johannes Pitz](https://www.linkedin.com/in/johannes-pitz/){:target="_blank"} from the AIDX Lab, TUM.</small>
 
 
 <script>

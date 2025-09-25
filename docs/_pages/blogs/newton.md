@@ -57,9 +57,9 @@ In this post, we share our first hands-on experiences with [Newton Physics](http
 
 * Some MuJoCo configurations don’t import automatically into Newton
 * Almost everything can already be configured via `newton.solvers.SolverMuJoCo`
-* We validated realism by running a real-world-tested RL controller
+* We validated realism by running our [real-world-tested RL controller](https://aidx-lab.org/manipulation/iros24)
 * Early training experiments show promising speed and convergence
-* Thanks to the simple API, we plan to use Newton in upcoming ADLR research projects at TUM
+* Thanks to the simple API, we plan to use Newton in upcoming [ADLR research projects](https://campus.tum.de/tumonline/ee/ui/ca2/app/desktop/#/slc.tm.cp/student/courses/950842341) at TUM
 
 
 
@@ -323,7 +323,7 @@ While this took a bit more time to implement, it is now fully functional. Traini
 
 ### Conclusion
 
-For us, this opens the door to using Newton not only in research but also in teaching contexts, such as hands-on projects in the ADLR lecture at TUM, where ease of use and speed are key.
+For us, this opens the door to using Newton not only in research but also in teaching contexts, such as hands-on projects in the [ADLR lecture](https://campus.tum.de/tumonline/ee/ui/ca2/app/desktop/#/slc.tm.cp/student/courses/950842341) at TUM, where ease of use and speed are key.
 
 <small>This work was carried out by [Dominik Winkelbauer](https://scholar.google.com/citations?user=kduGd8wAAAAJ){:target="_blank"} and [Johannes Pitz](https://www.linkedin.com/in/johannes-pitz/){:target="_blank"} from the AIDX Lab, TUM.</small>
 

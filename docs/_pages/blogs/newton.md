@@ -311,7 +311,7 @@ class NewtonSIL:
 
 <p align="center">
 <div class="video">
-    <img src="assets/imgs/grasping.jpg">
+    <img src="assets/imgs/blog/screenshot.jpg">
     <!-- <iframe width="746" height="420" src="https://www.youtube.com/embed/OVxJdB_SEBc?start=24&autoplay=1"  frameborder="0" allowfullscreen></iframe>-->
 </div>
 </p>

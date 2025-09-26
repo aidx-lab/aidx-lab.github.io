@@ -318,7 +318,7 @@ class NewtonSIL:
 
 As the next step, we began implementing a simplified version of our full simulation backend. In this setup, we ignored all configurations and left out domain randomization. The main effort was in providing the required states to our learning framework and enabling detailed access for resetting the simulation.
 
-While this took a bit more time to implement, it is now fully functional. Training — despite not yet tuned for maximum speed — already runs at a pace comparable to our IsaacSim-based setup. This is a promising sign that Newton can keep up with our existing workflow while offering a simpler and lighter interface.
+While this took a bit more time to implement, it is now fully functional. Training — despite not yet tuned for maximum speed — already runs at a pace comparable to our IsaacSim-based setup (both run at around 5 hours on a simple desktop GPU, Nvidia Quadro RTX 4000). This is a promising sign that Newton can keep up with our existing workflow while offering a simpler and lighter interface.
 
 
 ### Conclusion

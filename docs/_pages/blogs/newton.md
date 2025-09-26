@@ -1,7 +1,7 @@
 ---
 permalink: /aidx_and_newton_physics
 layout: page
-title: NVIDIA Newton Physics @ AIDX Lab
+title: Newton Physics @ AIDX Lab
 ---
 
  <style>

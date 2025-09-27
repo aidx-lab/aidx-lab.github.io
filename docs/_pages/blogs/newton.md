@@ -51,7 +51,7 @@ title: Newton Physics @ AIDX Lab
 </style>
 
 
-In this post, we share our first hands-on experiences with [Newton Physics](https://newton-physics.github.io/newton) — a new, lightweight simulation engine designed to be both easy to use and fast, especially for robotics applications. Although Newton is still in **alpha**, we were curious to see how it performs in one of our most demanding testbeds: in-hand manipulation. Our goal was to evaluate whether Newton could become a serious candidate as our main simulation engine in the future.
+In this post, we share our first hands-on experiences with [Newton Physics](https://newton-physics.github.io/newton) — a new, lightweight simulation engine designed to be both easy to use and fast, especially for robotics applications. Although Newton Alpha was released, we were curious to see how it would perform in one of our most demanding testbeds: in-hand manipulation. Our goal was to evaluate whether Newton could become a serious candidate as our main simulation engine in the future. Newton Beta is now available — read more [here](https://developer.nvidia.com/blog/train-a-quadruped-locomotion-policy-and-simulate-cloth-manipulation-with-nvidia-isaac-lab-and-newton/).
 
 **TL;DR**
 

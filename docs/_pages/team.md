@@ -85,17 +85,6 @@ In-Hand Manipulation, Control, Calibration \\
 <br/><br/><br/>
 
 <div class="member" >
-<img src="../assets/imgs/group/suederkrueb-finn.jpeg" class="group">
-<div class="member-details" markdown="1">
-<span style="font-size:2.0em;">Finn Süberkrüb</span> <br/>
-**PhD Student**\\
-Flight Dynamics, V-TOL \\
-[finn.sueberkrueb@tum.de](mailto:finn.sueberkrueb@tum.de)
-</div>
-</div>
-<br/><br/><br/>
-
-<div class="member" >
 <img src="../assets/imgs/group/tenhumberg-johannes.jpeg" class="group">
 <div class="member-details" markdown="1">
 <span style="font-size:2.0em;">Johannes Tenhumberg</span> <br/>

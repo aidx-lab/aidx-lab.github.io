@@ -28,6 +28,18 @@ title: Team
 <br/><br/><br/>
 
 <div class="member" >
+<img src="../assets/imgs/group/tenhumberg-johannes.jpeg" class="group">
+<div class="member-details" markdown="1">
+<span style="font-size:2.0em;">Johannes Tenhumberg</span> <br/>
+**Postdoc**\\
+Motion Planning, Calibration \\
+[johannes.tenhumberg@tum.de](mailto:johannes.tenhumberg@tum.de)\\
+[LinkedIn](https://www.linkedin.com/in/johannes-tenhumberg/),  [Google Scholar](https://scholar.google.com/citations?user=2RZuYZMAAAAJ)  
+</div>
+</div>
+<br/><br/><br/>
+
+<div class="member" >
 <img src="../assets/imgs/group/kasolowsky-ulf.jpeg" class="group">
 <div class="member-details" markdown="1">
 <span style="font-size:2.0em;">Ulf Kasolowsky</span> <br/>
@@ -83,19 +95,6 @@ In-Hand Manipulation, Control, Calibration \\
 </div>
 </div>
 <br/><br/><br/>
-
-<div class="member" >
-<img src="../assets/imgs/group/tenhumberg-johannes.jpeg" class="group">
-<div class="member-details" markdown="1">
-<span style="font-size:2.0em;">Johannes Tenhumberg</span> <br/>
-**PhD Student**\\
-Motion Planning, Calibration \\
-[johannes.tenhumberg@tum.de](mailto:johannes.tenhumberg@tum.de)\\
-[LinkedIn](https://www.linkedin.com/in/johannes-tenhumberg/),  [Google Scholar](https://scholar.google.com/citations?user=2RZuYZMAAAAJ)  
-</div>
-</div>
-<br/><br/><br/>
-
 
 <div class="member" >
 <img src="../assets/imgs/group/winkelbauer-dominik.jpeg" class="group">

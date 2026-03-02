@@ -74,6 +74,18 @@ Reinforcement Learning, In-Hand Manipulation \\
 <br/><br/><br/>
 
 <div class="member" >
+<img src="../assets/imgs/group/stoellger-lennard.jpeg" class="group">
+<div class="member-details" markdown="1">
+<span style="font-size:2.0em;">Lennard Stoellger</span> <br/>
+**PhD Student**\\
+Motion Planning \\
+[lennard.stoellger@tum.de](mailto:lennard.stoellger@tum.de) \\
+[LinkedIn](https://www.linkedin.com/in/lennard-stoellger/)
+</div>
+</div>
+<br/><br/><br/>
+
+<div class="member" >
 <img src="../assets/imgs/group/roestel-lennart.jpeg" class="group">
 <div class="member-details" markdown="1">
 <span style="font-size:2.0em;">Lennart Röstel </span> <br/>

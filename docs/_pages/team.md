@@ -74,7 +74,7 @@ Reinforcement Learning, In-Hand Manipulation \\
 <br/><br/><br/>
 
 <div class="member" >
-<img src="../assets/imgs/group/roestel-lennart.jpeg" class="group">
+<img src="../assets/imgs/group/stoellger-lennard.jpeg" class="group">
 <div class="member-details" markdown="1">
 <span style="font-size:2.0em;">Lennard Stoellger</span> <br/>
 **PhD Student**\\
